@@ -1,0 +1,8 @@
+{
+  "name": "json-config-loader",
+  "version": "1.1.0",
+  "description": "Load and merge JSON config files with environment overrides",
+  "main": "src/loader.js",
+  "scripts": { "test": "node --test test/loader.test.js" },
+  "license": "MIT"
+}
